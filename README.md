@@ -1,21 +1,21 @@
-# SaavnMp3 / Melotune
+# XroMp3 / XroMuse
 
-Melotune is a lightweight, privacy-focused Android music streaming app built with Kotlin. It offers an ad-free listening experience, a modern Spotify-inspired interface, and seamless playback without requiring an account.
+XroMuse is a lightweight, privacy-focused Android music streaming app built with Kotlin. It offers an ad-free listening experience, a modern Spotify-inspired interface, and seamless playback without requiring an account.
 
 <div style="display:flex; gap:10px;">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Harshshah6/SaavnMp3-Android?style=)
-![GitHub Repo stars](https://img.shields.io/github/stars/Harshshah6/SaavnMp3-Android?style=)
-[![GitHub release](https://img.shields.io/github/v/release/Harshshah6/SaavnMp3-Android?style=)](https://github.com/Harshshah6/SaavnMp3-Android/releases)
-[![Get it at IzzyOnDroid](https://img.shields.io/endpoint?url=https://apt.izzysoft.de/fdroid/api/v1/shield/com.harsh.shah.saavnmp3&style=)](https://apt.izzysoft.de/packages/com.harsh.shah.saavnmp3)
+![GitHub repo size](https://img.shields.io/github/repo-size/protickbarman/XroMusic?style=)
+![GitHub Repo stars](https://img.shields.io/github/stars/protickbarman/XroMusic?style=)
+[![GitHub release](https://img.shields.io/github/v/release/protickbarman/XroMusic?style=)](https://github.com/protickbarman/XroMusic/releases)
+[![Get it at IzzyOnDroid](https://img.shields.io/endpoint?url=https://apt.izzysoft.de/fdroid/api/v1/shield/com.xromuse.app&style=)](https://apt.izzysoft.de/packages/com.xromuse.app)
 
 </div>
 
 
 <div style="display:flex; gap:10px;">
 
-![GitHub Downloads](https://img.shields.io/github/downloads/Harshshah6/SaavnMp3-Android/total?style=&label=Release%20Downloads)
-[![IzzyOnDroid Downloads](https://img.shields.io/badge/dynamic/json?url=https://dlstats.izzyondroid.org/iod-stats-collector/stats/basic/yearly/rolling.json&query=$.['com.harsh.shah.saavnmp3']&label=IzzyOnDroid%20Downloads&style=)](https://apt.izzysoft.de/packages/com.harsh.shah.saavnmp3)
+![GitHub Downloads](https://img.shields.io/github/downloads/protickbarman/XroMusic/total?style=&label=Release%20Downloads)
+[![IzzyOnDroid Downloads](https://img.shields.io/badge/dynamic/json?url=https://dlstats.izzyondroid.org/iod-stats-collector/stats/basic/yearly/rolling.json&query=$.['com.xromuse.app']&label=IzzyOnDroid%20Downloads&style=)](https://apt.izzysoft.de/packages/com.xromuse.app)
 
 </div>
 
@@ -70,7 +70,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/harshshah6/SaavnMp3-Android.git
+    git clone https://github.com/protickbarman/XroMusic.git
     ```
 2. Open the project in Android Studio. 
 3. Build and run the app on your device or emulator.
@@ -96,17 +96,17 @@ Follow these instructions to get a copy of the project up and running on your lo
 *   [Paginate](https://github.com/MarkoMilos/Paginate) - Pagination and infinite scroll for RecyclerViews.
 
 <!-- ## Star History
-<a href="https://www.star-history.com/?repos=harshshah6%2FSaavnMp3-Android&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=protickbarman%2FXroMusic&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=harshshah6/SaavnMp3-Android&type=date&theme=dark&legend=top-left&sealed_token=TnLJLQULG0pZ0ArZCpyK9vygQTzTn5T5MVEYjIA8G3a5ZWmhLqfAUT-QhCWo5MpS2eFbYABtgTcM4Tlmw_aN-fOif42bR9HEn4E9tNORkcuFoy4HRPJDMQ" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=harshshah6/SaavnMp3-Android&type=date&legend=top-left&sealed_token=TnLJLQULG0pZ0ArZCpyK9vygQTzTn5T5MVEYjIA8G3a5ZWmhLqfAUT-QhCWo5MpS2eFbYABtgTcM4Tlmw_aN-fOif42bR9HEn4E9tNORkcuFoy4HRPJDMQ" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=harshshah6/SaavnMp3-Android&type=date&legend=top-left&sealed_token=TnLJLQULG0pZ0ArZCpyK9vygQTzTn5T5MVEYjIA8G3a5ZWmhLqfAUT-QhCWo5MpS2eFbYABtgTcM4Tlmw_aN-fOif42bR9HEn4E9tNORkcuFoy4HRPJDMQ" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=protickbarman/XroMusic&type=date&theme=dark&legend=top-left&sealed_token=TnLJLQULG0pZ0ArZCpyK9vygQTzTn5T5MVEYjIA8G3a5ZWmhLqfAUT-QhCWo5MpS2eFbYABtgTcM4Tlmw_aN-fOif42bR9HEn4E9tNORkcuFoy4HRPJDMQ" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=protickbarman/XroMusic&type=date&legend=top-left&sealed_token=TnLJLQULG0pZ0ArZCpyK9vygQTzTn5T5MVEYjIA8G3a5ZWmhLqfAUT-QhCWo5MpS2eFbYABtgTcM4Tlmw_aN-fOif42bR9HEn4E9tNORkcuFoy4HRPJDMQ" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=protickbarman/XroMusic&type=date&legend=top-left&sealed_token=TnLJLQULG0pZ0ArZCpyK9vygQTzTn5T5MVEYjIA8G3a5ZWmhLqfAUT-QhCWo5MpS2eFbYABtgTcM4Tlmw_aN-fOif42bR9HEn4E9tNORkcuFoy4HRPJDMQ" />
  </picture>
 </a> -->
 
 ## Contributing
 
-If you'd like to contribute to Melotune (SaavnMp3-Android),
+If you'd like to contribute to XroMuse (XroMp3-Android),
 
 see the [CONTRIBUTION GUIDE](CONTRIBUTING.md) file for details.
 
@@ -124,8 +124,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thanks to these wonderful people for their contributions:
 
-<a href="https://github.com/Harshshah6/SaavnMp3-Android/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Harshshah6/SaavnMp3-Android" />
+<a href="https://github.com/protickbarman/XroMusic/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=protickbarman/XroMusic" />
 </a>
 
 Contributions of any kind are welcome!

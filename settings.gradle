@@ -20,6 +20,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SaavnMp3"
+rootProject.name = "XroMp3"
 include ':app'
 include ':lrclib'

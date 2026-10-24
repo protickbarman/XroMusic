@@ -1,9 +1,9 @@
 @echo off
 setlocal EnableExtensions EnableDelayedExpansion
-title Melotune - Build and Install via ADB
+title XroMuse - Build and Install via ADB
 
 echo =====================================================================
-echo              Melotune - Build and Install via ADB
+echo              XroMuse - Build and Install via ADB
 echo =====================================================================
 echo:
 
@@ -130,7 +130,7 @@ if %ERRORLEVEL% equ 0 goto install_success
 echo:
 echo [WARNING] Direct installation failed.
 echo Attempting clean reinstall by removing existing package first...
-"%ADB_CMD%" -s !CONNECTED_DEVICE! uninstall com.harsh.shah.saavnmp3
+"%ADB_CMD%" -s !CONNECTED_DEVICE! uninstall com.xromuse.app
 "%ADB_CMD%" -s !CONNECTED_DEVICE! install -r -d -t "!APK_PATH!"
 
 if %ERRORLEVEL% equ 0 goto install_success
@@ -147,9 +147,9 @@ echo [+] APK successfully installed!
 if "%LAUNCH_APP%"=="0" goto finished
 
 echo:
-echo [*] Launching Melotune...
-"%ADB_CMD%" -s !CONNECTED_DEVICE! shell am start -n com.harsh.shah.saavnmp3/com.harsh.shah.saavnmp3.activities.MainActivity
-echo [+] Melotune started.
+echo [*] Launching XroMuse...
+"%ADB_CMD%" -s !CONNECTED_DEVICE! shell am start -n com.xromuse.app/com.xromuse.app.activities.MainActivity
+echo [+] XroMuse started.
 
 :finished
 echo:
