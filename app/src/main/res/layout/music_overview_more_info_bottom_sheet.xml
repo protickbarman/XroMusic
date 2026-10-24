@@ -94,49 +94,49 @@
 
         </com.google.android.material.card.MaterialCardView>
 
-        <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+        <com.xromuse.app.utils.customview.BottomSheetItemView
             android:id="@+id/go_to_album"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:title="Go to album"
             android:src="@drawable/baseline_album_24"/>
 
-        <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+        <com.xromuse.app.utils.customview.BottomSheetItemView
             android:id="@+id/add_to_library"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:title="Add to library"
             android:src="@drawable/round_add_24"/>
 
-        <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+        <com.xromuse.app.utils.customview.BottomSheetItemView
             android:id="@+id/download"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:title="Download song"
             android:src="@drawable/baseline_download_for_offline_24"/>
 
-        <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+        <com.xromuse.app.utils.customview.BottomSheetItemView
             android:id="@+id/recommendations"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:title="Similar songs &amp; recommendations"
             android:src="@drawable/ic_recommendation"/>
 
-        <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+        <com.xromuse.app.utils.customview.BottomSheetItemView
             android:id="@+id/sleep_timer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:title="Sleep timer"
             android:src="@drawable/ic_sleep_timer"/>
 
-        <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+        <com.xromuse.app.utils.customview.BottomSheetItemView
             android:id="@+id/playback_speed"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:title="Playback speed"
             android:src="@drawable/ic_speed"/>
 
-        <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+        <com.xromuse.app.utils.customview.BottomSheetItemView
             android:id="@+id/equalizer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

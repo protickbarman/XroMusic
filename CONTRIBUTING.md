@@ -1,6 +1,6 @@
-# Contributing to SaavnMp3‑Android 🎧
+# Contributing to XroMp3‑Android 🎧
 
-Thanks for helping make **SaavnMp3‑Android** better! We welcome all kinds of contributions — bug fixes, new features, documentation improvements, and more.
+Thanks for helping make **XroMp3‑Android** better! We welcome all kinds of contributions — bug fixes, new features, documentation improvements, and more.
 
 This project is a clean, ad‑free Android music streaming app built in **Java** using the unofficial JioSaavn API.
 
@@ -24,14 +24,14 @@ Before contributing, ensure your development environment is ready:
 2. Clone your fork:
 
    ```bash
-   git clone https://github.com/<your-username>/SaavnMp3-Android.git
-   cd SaavnMp3-Android
+   git clone https://github.com/<your-username>/XroMusic.git
+   cd XroMusic
    ```
 
 3. (Optional but recommended) Add upstream remote:
 
    ```bash
-   git remote add upstream https://github.com/harshshah6/SaavnMp3-Android.git
+   git remote add upstream https://github.com/protickbarman/XroMusic.git
    ```
 
 ### Setting Up Locally
@@ -172,4 +172,4 @@ Don’t be discouraged by feedback — it helps improve code quality and consist
 
 ---
 
-Thank you — your contributions help make **SaavnMp3‑Android** stronger and better for everyone! 🙏
+Thank you — your contributions help make **XroMp3‑Android** stronger and better for everyone! 🙏

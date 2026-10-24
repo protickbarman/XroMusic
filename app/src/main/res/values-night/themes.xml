@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme (Dark mode) -->
-    <style name="Base.Theme.Melotune" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.XroMuse" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Edge-to-edge & system bar configuration (Dark mode) -->
         <item name="android:statusBarColor">@color/background</item>
         <item name="android:windowLightStatusBar">false</item>
@@ -46,23 +46,23 @@
         <item name="android:roundIcon" tools:ignore="NewApi">@mipmap/ic_launcher_night_round</item>
 
         <!-- Material 3 Shape Tokens -->
-        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.Melotune.Small</item>
-        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.Melotune.Medium</item>
-        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.Melotune.Large</item>
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.XroMuse.Small</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.XroMuse.Medium</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.XroMuse.Large</item>
 
         <!-- Bottom Sheet style -->
         <item name="bottomSheetDialogTheme">@style/MyBottomSheetDialogTheme</item>
     </style>
 
     <!-- Palette Themes (Dark) -->
-    <style name="Theme.Melotune.Emerald" parent="Base.Theme.Melotune">
+    <style name="Theme.XroMuse.Emerald" parent="Base.Theme.XroMuse">
         <item name="colorPrimary">@color/emerald_primary_dark</item>
         <item name="colorOnPrimary">@color/emerald_on_primary_dark</item>
         <item name="colorPrimaryContainer">@color/emerald_primary_container_dark</item>
         <item name="colorOnPrimaryContainer">@color/emerald_on_primary_container_dark</item>
     </style>
 
-    <style name="Theme.Melotune.Ocean" parent="Base.Theme.Melotune">
+    <style name="Theme.XroMuse.Ocean" parent="Base.Theme.XroMuse">
         <item name="colorPrimary">@color/ocean_primary_dark</item>
         <item name="colorOnPrimary">@color/ocean_on_primary_dark</item>
         <item name="colorPrimaryContainer">@color/ocean_primary_container_dark</item>
@@ -73,7 +73,7 @@
         <item name="colorOnSecondaryContainer">@color/ocean_on_secondary_container_dark</item>
     </style>
 
-    <style name="Theme.Melotune.Purple" parent="Base.Theme.Melotune">
+    <style name="Theme.XroMuse.Purple" parent="Base.Theme.XroMuse">
         <item name="colorPrimary">@color/purple_primary_dark</item>
         <item name="colorOnPrimary">@color/purple_on_primary_dark</item>
         <item name="colorPrimaryContainer">@color/purple_primary_container_dark</item>
@@ -84,7 +84,7 @@
         <item name="colorOnSecondaryContainer">@color/purple_on_secondary_container_dark</item>
     </style>
 
-    <style name="Theme.Melotune.Crimson" parent="Base.Theme.Melotune">
+    <style name="Theme.XroMuse.Crimson" parent="Base.Theme.XroMuse">
         <item name="colorPrimary">@color/crimson_primary_dark</item>
         <item name="colorOnPrimary">@color/crimson_on_primary_dark</item>
         <item name="colorPrimaryContainer">@color/crimson_primary_container_dark</item>
@@ -95,7 +95,7 @@
         <item name="colorOnSecondaryContainer">@color/crimson_on_secondary_container_dark</item>
     </style>
 
-    <style name="Theme.Melotune.Amber" parent="Base.Theme.Melotune">
+    <style name="Theme.XroMuse.Amber" parent="Base.Theme.XroMuse">
         <item name="colorPrimary">@color/amber_primary_dark</item>
         <item name="colorOnPrimary">@color/amber_on_primary_dark</item>
         <item name="colorPrimaryContainer">@color/amber_primary_container_dark</item>

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.harsh.shah.saavnmp3'
+    namespace 'com.xromuse.app'
     compileSdk 37
 
     defaultConfig {
-        applicationId "com.harsh.shah.saavnmp3"
+        applicationId "com.xromuse.app"
         minSdk 24
         targetSdk 36
         versionCode 15
@@ -78,7 +78,7 @@ android {
 
     applicationVariants.configureEach { variant ->
         variant.outputs.each { output ->
-            def outputFileName = "Melotune-${variant.versionName}-${variant.name}.apk"
+            def outputFileName = "XroMuse-${variant.versionName}-${variant.name}.apk"
             output.outputFileName = outputFileName
         }
     }

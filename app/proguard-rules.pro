@@ -18,8 +18,8 @@
 -keep class * implements com.google.gson.JsonDeserializer
 
 # Keep all data/model/record classes that Gson deserializes into
--keep class com.harsh.shah.saavnmp3.model.** { *; }
--keep class com.harsh.shah.saavnmp3.records.** { *; }
+-keep class com.xromuse.app.model.** { *; }
+-keep class com.xromuse.app.records.** { *; }
 
 # ─── OkHttp ───────────────────────────────────────────────────────────────────
 -dontwarn okhttp3.**

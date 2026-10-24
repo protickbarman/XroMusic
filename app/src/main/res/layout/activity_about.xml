@@ -125,7 +125,7 @@
                     android:orientation="vertical"
                     android:paddingVertical="4dp">
 
-                    <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+                    <com.xromuse.app.utils.customview.BottomSheetItemView
                         android:id="@+id/versionTxt"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -139,7 +139,7 @@
                         android:layout_marginStart="56dp"
                         android:background="?attr/colorOutlineVariant" />
 
-                    <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+                    <com.xromuse.app.utils.customview.BottomSheetItemView
                         android:id="@+id/email"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -153,7 +153,7 @@
                         android:layout_marginStart="56dp"
                         android:background="?attr/colorOutlineVariant" />
 
-                    <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+                    <com.xromuse.app.utils.customview.BottomSheetItemView
                         android:id="@+id/rate"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -167,7 +167,7 @@
                         android:layout_marginStart="56dp"
                         android:background="?attr/colorOutlineVariant" />
 
-                    <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+                    <com.xromuse.app.utils.customview.BottomSheetItemView
                         android:id="@+id/source_code"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -205,7 +205,7 @@
                     android:orientation="vertical"
                     android:paddingVertical="4dp">
 
-                    <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+                    <com.xromuse.app.utils.customview.BottomSheetItemView
                         android:id="@+id/telegram"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -219,7 +219,7 @@
                         android:layout_marginStart="56dp"
                         android:background="?attr/colorOutlineVariant" />
 
-                    <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+                    <com.xromuse.app.utils.customview.BottomSheetItemView
                         android:id="@+id/discord"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -233,7 +233,7 @@
                         android:layout_marginStart="56dp"
                         android:background="?attr/colorOutlineVariant" />
 
-                    <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+                    <com.xromuse.app.utils.customview.BottomSheetItemView
                         android:id="@+id/instagram"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -272,7 +272,7 @@
                     android:orientation="vertical"
                     android:paddingVertical="4dp">
 
-                    <com.harsh.shah.saavnmp3.utils.customview.BottomSheetItemView
+                    <com.xromuse.app.utils.customview.BottomSheetItemView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:src="@drawable/baseline_person_24"

@@ -152,7 +152,7 @@
                         android:layout_marginHorizontal="@dimen/_12sdp" />
 
                     <!-- Dynamic Color Switch (Material You) -->
-                    <com.harsh.shah.saavnmp3.utils.customview.MaterialCustomSwitch
+                    <com.xromuse.app.utils.customview.MaterialCustomSwitch
                         android:id="@+id/dynamic_color_switch"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -248,7 +248,7 @@
                         android:layout_marginHorizontal="@dimen/_12sdp" />
 
                     <!-- Pure Black (AMOLED) Switch -->
-                    <com.harsh.shah.saavnmp3.utils.customview.MaterialCustomSwitch
+                    <com.xromuse.app.utils.customview.MaterialCustomSwitch
                         android:id="@+id/amoled_switch"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -287,7 +287,7 @@
                     android:orientation="vertical"
                     android:paddingVertical="@dimen/_6sdp">
 
-                    <com.harsh.shah.saavnmp3.utils.customview.MaterialCustomSwitch
+                    <com.xromuse.app.utils.customview.MaterialCustomSwitch
                         android:id="@+id/high_quality_track"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -295,7 +295,7 @@
                         app:textOff="Low/medium quality when not connected to Wi-Fi."
                         app:textOn="Stream 320kbps tracks on both Wi-Fi and mobile data." />
 
-                    <com.harsh.shah.saavnmp3.utils.customview.MaterialCustomSwitch
+                    <com.xromuse.app.utils.customview.MaterialCustomSwitch
                         android:id="@+id/play_in_background"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -303,7 +303,7 @@
                         app:textOff="Music stops when you clear the app from recents."
                         app:textOn="Music playback continues in background." />
 
-                    <com.harsh.shah.saavnmp3.utils.customview.MaterialCustomSwitch
+                    <com.xromuse.app.utils.customview.MaterialCustomSwitch
                         android:id="@+id/download_over_cellular"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -311,7 +311,7 @@
                         app:textOff="Download starts or continues only on Wi-Fi."
                         app:textOn="Download tracks on both Wi-Fi and cellular networks." />
 
-                    <com.harsh.shah.saavnmp3.utils.customview.MaterialCustomSwitch
+                    <com.xromuse.app.utils.customview.MaterialCustomSwitch
                         android:id="@+id/explicit"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -319,7 +319,7 @@
                         app:textOff="Filter out tracks marked with explicit (18+) label."
                         app:textOn="Explicit content is playable and listed." />
 
-                    <com.harsh.shah.saavnmp3.utils.customview.MaterialCustomSwitch
+                    <com.xromuse.app.utils.customview.MaterialCustomSwitch
                         android:id="@+id/autoplay_switch"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -412,7 +412,7 @@
                     android:orientation="vertical"
                     android:paddingVertical="@dimen/_6sdp">
 
-                    <com.harsh.shah.saavnmp3.utils.customview.MaterialCustomSwitch
+                    <com.xromuse.app.utils.customview.MaterialCustomSwitch
                         android:id="@+id/store_in_cache"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
